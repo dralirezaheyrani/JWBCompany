@@ -91,7 +91,6 @@ timeline
 
 <div align="center">
 
-![Website](https://jwbco.ir/logo.jpg)
 ![GitHub](https://img.shields.io/github/stars/jwbco?style=for-the-badge&color=F0B90B)
 ![Build](https://img.shields.io/badge/Build-Stable-00C853?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Version-1.0.0-FFD700?style=for-the-badge)
