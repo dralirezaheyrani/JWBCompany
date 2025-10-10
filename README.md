@@ -4,7 +4,7 @@
 
 <div align="center" style="background-color:#0D0D0D;padding:40px;border-radius:20px;font-family:IRANSans,Inter,sans-serif;">
 
-<img src="logo (1).jpg" alt="JWBCo Logo" width="160"/>
+<img src="logo (2).jpg" alt="JWBCo Logo" width="160"/>
 
 <h1 style="color:#F0B90B;font-size:42px;">JWBCo – Jobs Without Borders</h1>
 <p style="color:#cccccc;font-size:18px;">We build the future where borders no longer exist.</p>
