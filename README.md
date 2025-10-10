@@ -1,180 +1,111 @@
-<!-- ===================== -->
-<!-- 🌐 JWBCo README File -->
-<!-- ===================== -->
 
-<p align="center" style="font-family: 'IRANSans', sans-serif;">
-  <!-- Logo Here -->
-  <img src="https://your-logo-link.png" width="180" alt="JWBCo Logo" />
-</p>
+<!-- 🌑 JWBCo - Borderless Business Corporation -->
+<!-- README Premium Edition | Designed with ❤️ by Alireza Heirani -->
 
-<h1 align="center" style="font-family: 'IRANSans', sans-serif;">✨ JWBCo | مشاغل بدون مرز ✨</h1>
+<div align="center" style="background-color:#0D0D0D;padding:40px;border-radius:20px;font-family:IRANSans,Inter,sans-serif;">
 
-<p align="center" style="font-family: 'IRANSans', sans-serif;">
-  <b>Building Borderless Opportunities for the Digital Age</b><br>
-  <i>خلق فرصت‌های بدون مرز در عصر دیجیتال</i>
-</p>
+<img src="logo.png" alt="JWBCo Logo" width="160"/>
 
-<p align="center">
-  <a href="https://jwbco.com"><img src="https://img.shields.io/badge/🌐_Website-JWBCo.com-%23F0B90B?style=flat&logo=internet-explorer&logoColor=black" /></a>
-  <a href="https://github.com/JWBCo"><img src="https://img.shields.io/github/stars/JWBCo?color=F0B90B&logo=github" /></a>
-  <a href="https://t.me/JWBCo"><img src="https://img.shields.io/badge/Telegram-Join-%23F0B90B?style=flat&logo=telegram" /></a>
-  <a href="mailto:contact@jwbco.com"><img src="https://img.shields.io/badge/Contact-Email-%23F0B90B?style=flat&logo=gmail" /></a>
-</p>
+<h1 style="color:#F0B90B;font-size:42px;">JWBCo – Jobs Without Borders</h1>
+<p style="color:#cccccc;font-size:18px;">We build the future where borders no longer exist.<br/>ما آینده‌ای می‌سازیم که در آن مرزها دیگر معنا ندارند.</p>
+
+</div>
 
 ---
 
-## 🏢 درباره JWBCo
+## 🌐 Ecosystem Overview
 
-**JWBCo (Jobs Without Borders)** یک اکوسیستم چندمنظوره است که در حوزه‌های **تکنولوژی، محصولات دیجیتال، آموزش و تجارت الکترونیک** فعالیت می‌کند.  
-هدف ما خلق جهانی است که در آن **محدودیت جغرافیایی وجود ندارد** و هر فرد بتواند با تکیه بر مهارت، خلاقیت و ابزارهای دیجیتال رشد کند.
-
-> 🌍 «ما مرزها را از دنیای کار حذف می‌کنیم.»
-
----
-
-## 🌱 فلسفه برند
-
-**مشاغل بدون مرز** نمادی از آزادی، خلاقیت و رشد پایدار است.  
-ما به دنیایی اعتقاد داریم که در آن فرصت‌ها بر اساس استعداد سنجیده می‌شوند، نه موقعیت جغرافیایی.
+| Project | Description | Link |
+|----------|--------------|------|
+| 🧠 **Metaplus** | Intelligent Trading Platform with AI Core | [metaplus.app](#) |
+| 🧭 **Noshenism** | Notion-based productivity system for creators | [noshenism.com](#) |
+| 🌍 **JWBCo Web** | Official digital hub of JWBCo | [jwbco.com](#) |
+| 🎓 **JWBCo Academy** | Learning platform for digital skills & innovation | [academy.jwbco.com](#) |
 
 ---
 
-## 🧭 مأموریت جهانی JWBCo
+## 🧩 Architecture Map
 
-- توسعه زیرساخت‌های دیجیتال برای توانمندسازی افراد و کسب‌وکارها  
-- ایجاد محصولات مقاوم در برابر تغییرات فناوری و هوش مصنوعی  
-- گسترش فرهنگ «کار آزاد، جهانی و خلاقانه»  
-- آموزش مهارت‌های آینده برای حضور در اقتصاد دیجیتال جهانی  
-
----
-
-## 🧩 اکوسیستم پروژه‌ها
-
-| پروژه | توضیح کوتاه | وضعیت | لینک |
-|-------|--------------|--------|-------|
-| **Metaplus** | پلتفرم معاملاتی هوشمند با هسته‌ی هوش مصنوعی | 🚀 در حال توسعه | [مشاهده پروژه](https://github.com/JWBCo/Metaplus) |
-| **Noshenism** | سیستم مدیریت ذهن و خلاقیت در Notion | 🧠 طراحی مفهومی | [مشاهده پروژه](https://github.com/JWBCo/Noshenism) |
-| **JWBCo Web** | وب‌سایت رسمی شرکت | 🌐 آنلاین | [https://jwbco.com](https://jwbco.com) |
-| **JWBCo Academy** | آکادمی مهارت‌های دیجیتال و خلاقیت | 🎓 در حال آماده‌سازی | - |
+```mermaid
+graph TD
+    A[ JWBCo Core ] --> B[ Metaplus ]
+    A --> C[ Noshenism ]
+    A --> D[ JWBCo Web ]
+    A --> E[ Academy ]
+    B --> F[ AI Engine ]
+    B --> G[ Data Processing Layer ]
+    E --> H[ Online Courses ]
+```
 
 ---
 
-## 🕰️ Timeline رشد برند
+## ⚙️ Tech Stack
+
+<div align="center">
+  
+![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-Core%20Engine-FFD700?logo=openai&logoColor=black&style=for-the-badge)
+![Tailwind](https://img.shields.io/badge/UI-TailwindCSS-38BDF8?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Deployment-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+
+</div>
+
+---
+
+## ⏳ Brand Timeline
 
 ```mermaid
 timeline
-    title تاریخچه JWBCo
-    2023 : ایده شکل‌گیری برند
-    2024 : توسعه اولین محصولات دیجیتال
-    2025 : آغاز پروژه Metaplus و Noshenism
-    2026 : راه‌اندازی رسمی JWBCo Academy
-    2027 : گسترش جهانی پلتفرم‌ها و ابزارهای هوش مصنوعی
+    title JWBCo Growth Journey
+    2022 : Foundation of JWBCo (Jobs Without Borders)
+    2023 : Creation of Noshenism Project
+    2024 : Launch of Metaplus AI Trading Platform
+    2025 : JWBCo Academy initiated
+    2026 : Expansion into Global Digital Ecosystem
 ```
 
 ---
 
-## ⚙️ Tech Stack & Infrastructure
+## 💬 Message from the Founder – Alireza Heirani
 
-| لایه | تکنولوژی‌ها |
-|------|---------------|
-| **Frontend** | React, Vite, TailwindCSS |
-| **Backend** | FastAPI, Python |
-| **Database** | PostgreSQL, MongoDB |
-| **AI Core** | TensorFlow, PyTorch, Custom ML Models |
-| **Automation** | Notion API, OpenAI API, Zapier |
-| **Deployment** | Docker, Vercel, GitHub Actions |
+> "JWBCo was born from a simple belief: that human creativity should never be limited by geography.  
+> Every product we build — from Metaplus to Noshenism — aims to empower people to create, trade, and grow freely across all borders."  
+>  
+> — *Alireza Heirani, Founder & CEO*
 
 ---
 
-## 🧭 Architecture Overview
+## 🎨 Brand Identity
 
-```mermaid
-graph TD
-A[Client Apps] -->|API Requests| B(Backend - FastAPI)
-B --> C[(Database)]
-B --> D{AI Core}
-D --> E[Market Data / Learning Models]
-C --> F[User Data / Configs]
-B --> G[JWBCo Web Services]
-```
+| Element | Value |
+|----------|-------|
+| **Primary Color** | `#F0B90B` |
+| **Background** | `#0D0D0D` |
+| **Accent** | `#1E1E1E` |
+| **Font** | IranSans / Inter |
+| **Mood** | Bold, Futuristic, Intelligent |
 
 ---
 
-## 🤝 همکاری در پروژه‌ها
+## 🪩 Social & Status Badges
 
-ما به دنبال افراد خلاق، توسعه‌دهندگان، طراحان و ایده‌پردازانی هستیم که بخواهند در مسیر ساخت آینده‌ی دیجیتال همراه ما باشند.
+<div align="center">
 
-برای همکاری:  
-📧 contact@jwbco.com  
-📱 [Telegram @JWBCo](https://t.me/JWBCo)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fjwbco.com&up_message=Online&style=for-the-badge&label=Website&color=F0B90B)
+![GitHub](https://img.shields.io/github/stars/jwbco?style=for-the-badge&color=F0B90B)
+![Build](https://img.shields.io/badge/Build-Stable-00C853?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-1.0.0-FFD700?style=for-the-badge)
 
----
-
-## 💫 مشارکت‌کنندگان (Contributors)
-
-<p align="center">
-  <a href="https://github.com/JWBCo/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=JWBCo/jwbco" />
-  </a>
-</p>
+</div>
 
 ---
 
-## 🪪 لایسنس
+<div align="center" style="margin-top:40px;color:#999;font-family:IRANSans,Inter,sans-serif;">
 
-تمامی حقوق این ریپازیتوری متعلق به **JWBCo | مشاغل بدون مرز** است.  
-استفاده از محتوا تنها با مجوز رسمی مجاز می‌باشد.  
-© 2025 JWBCo. All rights reserved.
+🇬🇧 English | 🇮🇷 فارسی  
 
----
+✨ *The future belongs to those who build without borders.*  
+© 2025 JWBCo – Jobs Without Borders
 
-## 🌍 English Version
-
-### About JWBCo
-
-**JWBCo (Jobs Without Borders)** is a multi-purpose digital ecosystem focused on **technology, digital products, education, and e-commerce**.  
-We believe in a world where **geography never limits creativity**.
-
-> 🌎 "We remove borders from the world of work."
-
-### Our Mission
-
-- Empower individuals and businesses through digital infrastructure  
-- Build resilient products that adapt to the evolution of AI  
-- Promote the culture of creative, borderless work  
-- Educate people for the future of digital economies  
-
-### Projects Ecosystem
-
-| Project | Description | Status | Link |
-|----------|--------------|--------|------|
-| **Metaplus** | AI-driven trading platform | 🚀 In development | [View project](https://github.com/JWBCo/Metaplus) |
-| **Noshenism** | Creative management system in Notion | 🧠 Concept stage | [View project](https://github.com/JWBCo/Noshenism) |
-| **JWBCo Web** | Official website | 🌐 Online | [https://jwbco.com](https://jwbco.com) |
-| **JWBCo Academy** | Learning & digital skills platform | 🎓 Coming soon | - |
-
-### Tech Stack
-
-React • FastAPI • PostgreSQL • AI Core • Docker • Notion API
-
-### Architecture Diagram
-
-```mermaid
-graph TD
-A[Users] -->|Access| B(Frontend - React)
-B --> C(Backend - FastAPI)
-C --> D[(Database)]
-C --> E{AI Core}
-E --> F[Model Training / Analysis]
-```
-
-### Contact
-
-📧 contact@jwbco.com  
-🌐 [https://jwbco.com](https://jwbco.com)  
-📱 [Telegram @JWBCo](https://t.me/JWBCo)
-
----
-
-> **"The future belongs to those who build without borders."**  
-> — JWBCo Team
+</div>
