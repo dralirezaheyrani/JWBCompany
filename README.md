@@ -1,13 +1,13 @@
 
 <!-- 🌑 JWBCo - Borderless Business Corporation -->
-<!-- README Premium Edition | Designed with ❤️ by Alireza Heirani -->
+<!-- README Premium English Edition | Designed with ❤️ by Alireza Heirani -->
 
 <div align="center" style="background-color:#0D0D0D;padding:40px;border-radius:20px;font-family:IRANSans,Inter,sans-serif;">
 
 <img src="logo.png" alt="JWBCo Logo" width="160"/>
 
 <h1 style="color:#F0B90B;font-size:42px;">JWBCo – Jobs Without Borders</h1>
-<p style="color:#cccccc;font-size:18px;">We build the future where borders no longer exist.<br/>ما آینده‌ای می‌سازیم که در آن مرزها دیگر معنا ندارند.</p>
+<p style="color:#cccccc;font-size:18px;">We build the future where borders no longer exist.</p>
 
 </div>
 
@@ -17,10 +17,10 @@
 
 | Project | Description | Link |
 |----------|--------------|------|
-| 🧠 **Metaplus** | Intelligent Trading Platform with AI Core | [metaplus.app](#) |
-| 🧭 **Noshenism** | Notion-based productivity system for creators | [noshenism.com](#) |
-| 🌍 **JWBCo Web** | Official digital hub of JWBCo | [jwbco.com](#) |
-| 🎓 **JWBCo Academy** | Learning platform for digital skills & innovation | [academy.jwbco.com](#) |
+| 🧠 **Metaplus** | AI-powered trading platform for global markets | [metaplus.app](#) |
+| 🧭 **Noshenism** | Notion-based productivity and creativity system | [noshenism.com](#) |
+| 🌍 **JWBCo Web** | Official digital hub and company website | [jwbco.com](#) |
+| 🎓 **JWBCo Academy** | Learning platform for digital skills and innovation | [academy.jwbco.com](#) |
 
 ---
 
@@ -69,8 +69,8 @@ timeline
 
 ## 💬 Message from the Founder – Alireza Heirani
 
-> "JWBCo was born from a simple belief: that human creativity should never be limited by geography.  
-> Every product we build — from Metaplus to Noshenism — aims to empower people to create, trade, and grow freely across all borders."  
+> "JWBCo was born from a simple belief: human creativity should never be limited by geography.  
+> Every product we build — from Metaplus to Noshenism — empowers people to create, trade, and grow freely across borders."  
 >  
 > — *Alireza Heirani, Founder & CEO*
 
@@ -102,8 +102,6 @@ timeline
 ---
 
 <div align="center" style="margin-top:40px;color:#999;font-family:IRANSans,Inter,sans-serif;">
-
-🇬🇧 English | 🇮🇷 فارسی  
 
 ✨ *The future belongs to those who build without borders.*  
 © 2025 JWBCo – Jobs Without Borders
