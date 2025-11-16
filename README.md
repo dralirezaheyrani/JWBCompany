@@ -10,14 +10,10 @@
 
 </div>
 <div align="center">
-
-![JWBCo Banner](https://jwbco.ir/logo.jpg)
-
 [![Website](https://img.shields.io/badge/Website-JWBCo.ir-F0B90B?style=for-the-badge&logo=google-chrome)](https://jwbco.ir)
 [![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://jwbco.ir)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-1.0.0-FFD700?style=for-the-badge)](https://github.com/JWBCo/jwbco-web)
-
 </div>
 
 ---
