@@ -1,6 +1,14 @@
-## 𝐽𝑊𝐵𝐶𝑜 – 𝐽𝑜𝑏𝑠 𝑊𝑖𝑡ℎ𝑜𝑢𝑡 𝐵𝑜𝑟𝑑𝑒𝑟𝑠
-## مشاغل بدون مرز
+<!-- 🌑 JWBCo - Borderless Business Corporation -->
+<!-- README Premium English Edition | Designed with ❤️ by Alireza Heirani -->
 
+<div align="center" style="background-color:#0D0D0D;padding:40px;border-radius:20px;font-family:IRANSans,Inter,sans-serif;">
+
+<img src="logo (2).jpg" alt="JWBCo Logo" width="250"/>
+
+<h1 style="color:#F0B90B;font-size:42px;">𝐽𝑊𝐵𝐶𝑜 – 𝐽𝑜𝑏𝑠 𝑊𝑖𝑡ℎ𝑜𝑢𝑡 𝐵𝑜𝑟𝑑𝑒𝑟𝑠</h1>
+<p style="color:#cccccc;font-size:18px;">𝑊𝑒 𝑏𝑢𝑖𝑙𝑑 𝑡ℎ𝑒 𝑓𝑢𝑡𝑢𝑟𝑒 𝑤ℎ𝑒𝑟𝑒 𝑏𝑜𝑟𝑑𝑒𝑟𝑠 𝑛𝑜 𝑙𝑜𝑛𝑔𝑒𝑟 𝑒𝑥𝑖𝑠𝑡.</p>
+
+</div>
 <div align="center">
 
 ![JWBCo Banner](https://jwbco.ir/logo.jpg)
