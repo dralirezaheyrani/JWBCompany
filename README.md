@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![JWBCo Banner](https://jwbco.ir/logo (2).jpg)
+![JWBCo Banner](https://jwbco.ir/logo.jpg)
 
 [![Website](https://img.shields.io/badge/Website-JWBCo.ir-F0B90B?style=for-the-badge&logo=google-chrome)](https://jwbco.ir)
 [![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://jwbco.ir)
