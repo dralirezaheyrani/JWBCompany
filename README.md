@@ -1,97 +1,253 @@
-<!-- 🌑 JWBCo - Borderless Business Corporation -->
-<!-- README Premium English Edition | Designed with ❤️ by Alireza Heirani -->
+حتماً علیرضا عزیز!
+در ادامه یک **README.md دوزبانه کامل، یکپارچه، حرفه‌ای و فوق‌العاده کامل** برای **مشاغل بدون مرز – JWBCo** آماده کردم که شامل:
 
-<div align="center" style="background-color:#0D0D0D;padding:40px;border-radius:20px;font-family:IRANSans,Inter,sans-serif;">
+* تمام توضیحات قبلی
+* معماری سه‌لایه
+* نقشه‌راه ۶ ماهه
+* مدل درآمدی
+* اکوسیستم کامل
+* نسخه فارسی + نسخه انگلیسی
+* ساختار README استاندارد برای GitHub
+* با طراحی مرتب، زیبا و حرفه‌ای
 
-<img src="logo (2).jpg" alt="JWBCo Logo" width="250"/>
+---
 
-<h1 style="color:#F0B90B;font-size:42px;">𝐽𝑊𝐵𝐶𝑜 – 𝐽𝑜𝑏𝑠 𝑊𝑖𝑡ℎ𝑜𝑢𝑡 𝐵𝑜𝑟𝑑𝑒𝑟𝑠</h1>
-<p style="color:#cccccc;font-size:18px;">𝑊𝑒 𝑏𝑢𝑖𝑙𝑑 𝑡ℎ𝑒 𝑓𝑢𝑡𝑢𝑟𝑒 𝑤ℎ𝑒𝑟𝑒 𝑏𝑜𝑟𝑑𝑒𝑟𝑠 𝑛𝑜 𝑙𝑜𝑛𝑔𝑒𝑟 𝑒𝑥𝑖𝑠𝑡.</p>
+# 📄 README.md (FA + EN)
+
+> **کافی است این متن را مستقیماً در README.md قرار دهی.**
+
+---
+
+# 🌑 JWBCo – Jobs Without Borders
+
+## README (FA + EN)
+
+---
+
+# 🇮🇷 نسخه فارسی
+
+<div align="center" style="background-color:#0D0D0D;padding:30px;border-radius:20px;font-family:IRANSans,Inter,sans-serif;">
+
+<img src="logo (2).jpg" width="220"/>
+
+<h1 style="color:#F0B90B;">مشاغل بدون مرز – JWBCo</h1>
+<p style="color:#ccc;">ما آینده‌ای را می‌سازیم که در آن هیچ مرزی وجود ندارد.</p>
 
 </div>
 
 ---
 
-## 🌐 𝐸𝑐𝑜𝑠𝑦𝑠𝑡𝑒𝑚 𝑂𝑣𝑒𝑟𝑣𝑖𝑒𝑤
+# 📌 معرفی کوتاه
 
-| Project              | Description                                         | Link                  |
-| -------------------- | --------------------------------------------------- | --------------------- |
-| 🧠 **Metaplus**      | AI-powered trading platform for global markets      | [metaplus.app](#)     |
-| 🧭 **Noshenism**     | Notion-based productivity and creativity system     | [noshenism.ir](#)     |
-| 🌍 **JWBCo Web**     | Official digital hub and company website            | [jwbco.ir](#)         |
-| 🎓 **JWBCo Academy** | Learning platform for digital skills and innovation | [academy.jwbco.ir](#) |
+**مشاغل بدون مرز (JWBCo)** یک اکوسیستم دیجیتال چندمنظوره است که شامل:
 
----
+* پلتفرم معاملاتی و هوش مصنوعی **Metaplus**
+* سیستم خلاقیت و بهره‌وری **Noshenism**
+* دانشگاه مالی **JWBCo Academy**
+* وب‌سایت رسمی و مرکز ابزارها **JWBCo Web**
 
-## 🧩 𝐴𝑟𝑐ℎ𝑖𝑡𝑒𝑐𝑡𝑢𝑟𝑒 𝑀𝑎𝑝
+این برند در حال تبدیل شدن به:
 
-```mermaid
-graph TD
-    A[ JWBCo Core ] --> B[ Metaplus ]
-    A --> C[ Noshenism ]
-    A --> D[ JWBCo Web ]
-    A --> E[ Academy ]
-    B --> F[ AI Engine ]
-    B --> G[ Data Processing Layer ]
-    E --> H[ Online Courses ]
-```
+### **دانشگاه مالی + جامعه حرفه‌ای معامله‌گران + مرکز ابزارهای معاملاتی + اکوسیستم AI**
 
 ---
 
-## ⚙️ 𝑇𝑒𝑐ℎ 𝑆𝑡𝑎𝑐𝑘
+# 🌍 چشم‌انداز (Vision)
 
-<div align="center">
-  
-![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-Core%20Engine-FFD700?logo=openai&logoColor=black&style=for-the-badge)
-![Tailwind](https://img.shields.io/badge/UI-TailwindCSS-38BDF8?logo=tailwindcss&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/Deployment-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+علیرضا،
+این همان مسیری است که تو را از یک وب‌سایت ساده، به **یک امپراتوری آموزشی–معاملاتی** می‌رساند.
 
-</div>
+مشاغل بدون مرز قرار است تبدیل شود به:
+
+### ✔ دانشگاه بزرگ مالی
+
+### ✔ جامعه بزرگ معامله‌گران
+
+### ✔ مرکز ابزارهای AI
+
+### ✔ فروشگاه بزرگ محصولات دیجیتال
+
+### ✔ پلتفرم سیگنال و ابزارهای حرفه‌ای
+
+ترکیبی از:
+
+**TradingView + BabyPips + Gumroad + AI Tools**
 
 ---
 
-## ⏳ 𝐵𝑟𝑎𝑛𝑑 𝑇𝑖𝑚𝑒𝑙𝑖𝑛𝑒
+# 🧩 اکوسیستم JWBCo
+
+| پروژه             | توضیح                                      | لینک             |
+| ----------------- | ------------------------------------------ | ---------------- |
+| **Metaplus**      | پلتفرم معاملاتی با هسته هوش مصنوعی         | metaplus.app     |
+| **Noshenism**     | سیستم خلاقیت و برنامه‌ریزی مبتنی بر Notion | noshenism.ir     |
+| **JWBCo Web**     | وب‌سایت رسمی و ابزارهای دیجیتال            | jwbco.ir         |
+| **JWBCo Academy** | دانشگاه مالی                               | academy.jwbco.ir |
+
+---
+
+# 🧭 معماری سه‌لایه پلتفرم
+
+## **لایه ۱: جامعه (Community Layer)**
+
+* تالار گفتگو
+* تحلیل‌های روزانه
+* آموزش رایگان
+* اخبار
+* گروه‌های تخصصی
+* مسابقات و چالش‌ها
+
+**هدف:** ساخت جامعه و جذب ترافیک (مرحله رایگان)
+
+---
+
+## **لایه ۲: آکادمی مالی (MBA Trading)**
+
+* دوره‌ها
+* کلاس‌های زنده
+* سیستم گواهی‌نامه
+* داشبورد دانشجو
+* آزمون‌ها
+
+**درآمد:**
+اشتراک ماهانه + فروش دوره + VIP
+
+---
+
+## **لایه ۳: ابزارها + AI**
+
+* ژورنال آنلاین
+* اسکنر هوشمند
+* داشبورد مدیریت سرمایه
+* تشخیص هوشمند عرضه/تقاضا
+* تحلیل کندل‌به‌کندل با AI
+* ابزار نقشه نقدینگی
+
+**درآمد:**
+اشتراک ماهانه + فروش ابزارها + API
+
+---
+
+# ⏳ تایم‌لاین برند
 
 ```mermaid
 timeline
     title JWBCo Growth Journey
-    2022 : Foundation of JWBCo (Jobs Without Borders)
-    2023 : Creation of Noshenism Project
-    2024 : Launch of Metaplus AI Trading Platform
-    2025 : JWBCo Academy initiated
-    2026 : Expansion into Global Digital Ecosystem
+    2022 : تاسیس مشاغل بدون مرز
+    2023 : شروع پروژه Noshenism
+    2024 : آغاز Metaplus
+    2025 : راه‌اندازی آکادمی
+    2026 : گسترش جهانی
 ```
 
 ---
 
-## 💬 𝑀𝑒𝑠𝑠𝑎𝑔𝑒 𝑓𝑟𝑜𝑚 𝑡ℎ𝑒 𝐹𝑜𝑢𝑛𝑑𝑒𝑟 – 𝐴𝑙𝑖𝑟𝑒𝑧𝑎 𝐻𝑒𝑦𝑟𝑎𝑛𝑖
+# 🧱 معماری سایت JWBCo
 
-> "JWBCo was born from a simple belief: human creativity should never be limited by geography.  
-> Every product we build — from Metaplus to Noshenism — empowers people to create, trade, and grow freely across borders."
->
-> — _Alireza Heyrani, Founder & CEO_
-
----
-
-## 🎨 𝐵𝑟𝑎𝑛𝑑 𝐼𝑑𝑒𝑛𝑡𝑖𝑡𝑦
-
-| Element           | Value                         |
-| ----------------- | ----------------------------- |
-| **Primary Color** | `#F0B90B`                     |
-| **Background**    | `#0D0D0D`                     |
-| **Accent**        | `#1E1E1E`                     |
-| **Font**          | IranSans / Inter              |
-| **Mood**          | Bold, Futuristic, Intelligent |
+1. خانه (Landing)
+2. درباره ما
+3. آکادمی
+4. دوره‌ها
+5. ابزارها
+6. محصولات دیجیتال
+7. بلاگ
+8. جامعه
+9. سیگنال‌ها
+10. داشبورد کاربر
+11. پشتیبانی
 
 ---
 
-## 🪩 𝑆𝑜𝑐𝑖𝑎𝑙 & 𝑆𝑡𝑎𝑡𝑢𝑠 𝐵𝑎𝑑𝑔𝑒𝑠
+# 🚀 نقشه‌راه ۶ ماهه (Roadmap)
+
+## **ماه ۱: ساخت زیرساخت**
+
+* طراحی منو
+* ساخت صفحات اصلی
+* ۵ محتوای رایگان
+* بلاگ
+* بخش جامعه نسخه اولیه
+* اولین محصول دیجیتال Notion
+
+---
+
+## **ماه ۲: راه‌اندازی آکادمی**
+
+* ۳ دوره اولیه
+* سیستم عضویت
+* گواهی‌نامه
+* داشبورد
+* لندینگ آکادمی
+
+---
+
+## **ماه ۳: ابزارهای دیجیتال**
+
+* ژورنال معاملاتی
+* چک‌لیست هوشمند
+* داشبورد سرمایه
+* اشتراک ۳۰ روزه
+
+---
+
+## **ماه ۴: توسعه AI**
+
+* تحلیلگر AI
+* ابزار واگرایی
+* نقشه نقدینگی
+
+---
+
+## **ماه ۵: سیگنال و VIP**
+
+* اتاق سیگنال
+* VIP
+* سیستم امتیاز تریدر
+
+---
+
+## **ماه ۶: رشد و مقیاس**
+
+* ۲۰ محتوای رایگان
+* کمپین تبلیغاتی
+* همکاری با تریدرهای بزرگ
+* API نسخه اولیه
+
+---
+
+# 💬 پیام بنیان‌گذار
+
+> **"انسان خلاق نمی‌تواند محدود باشد.
+> مشاغل بدون مرز برای ساختن آینده بدون مرز متولد شد."**
+> — علیرضا حیرانی، Founder & CEO
+
+---
+
+# 🎨 هویت برند
+
+| المان     | مقدار                      |
+| --------- | -------------------------- |
+| رنگ اصلی  | `#F0B90B`                  |
+| پس‌زمینه  | `#0D0D0D`                  |
+| فونت      | IranSans / Inter           |
+| حالت برند | آینده‌نگر، هوشمند، قدرتمند |
+
+---
+
+# 🧠 Tech Stack
+
+* React
+* FastAPI
+* Tailwind
+* Docker
+* AI Engine
+
+---
+
+# 🪩 Status Badges
 
 <div align="center">
 
-![GitHub](https://img.shields.io/github/stars/jwbco?style=for-the-badge&color=F0B90B)
 ![Build](https://img.shields.io/badge/Build-Stable-00C853?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Version-1.0.0-FFD700?style=for-the-badge)
 
@@ -99,9 +255,143 @@ timeline
 
 ---
 
-<div align="center" style="margin-top:40px;color:#999;font-family:IRANSans,Inter,sans-serif;">
+# 🇬🇧 English Version
 
-✨ _The future belongs to those who build without borders._  
-© 2025 JWBCo – Jobs Without Borders
+<div align="center">
+
+<img src="logo (2).jpg" width="200"/>
+
+<h1 style="color:#F0B90B;">JWBCo – Jobs Without Borders</h1>
 
 </div>
+
+---
+
+## 📌 About
+
+JWBCo is a multi-layer digital ecosystem built to empower creativity, trading, learning, and innovation without limitations.
+
+It includes:
+
+* **Metaplus** – AI Trading Platform
+* **Noshenism** – Notion Creativity System
+* **JWBCo Academy** – Financial University
+* **JWBCo Web** – Official Digital Hub
+
+---
+
+## 🌍 Vision
+
+To build the **largest financial education platform + trader community + AI tools ecosystem** in the region.
+
+A combination of:
+
+**TradingView + BabyPips + Gumroad + AI Trading Tools**
+
+---
+
+## 🧩 Ecosystem Overview
+
+| Project   | Description                  | Link             |
+| --------- | ---------------------------- | ---------------- |
+| Metaplus  | AI-powered trading platform  | metaplus.app     |
+| Noshenism | Productivity system          | noshenism.ir     |
+| JWBCo Web | Official hub                 | jwbco.ir         |
+| Academy   | Financial education platform | academy.jwbco.ir |
+
+---
+
+## 🧭 Three-Layer Architecture
+
+### **Layer 1: Community**
+
+* Forums
+* Free education
+* Daily analysis
+* Market news
+
+---
+
+### **Layer 2: Academy**
+
+* Video courses
+* Live classes
+* Certificates
+* Exams
+* Student dashboard
+
+---
+
+### **Layer 3: Tools & AI**
+
+* Trading journal
+* Smart scanner
+* Risk dashboards
+* AI candle-by-candle analysis
+* Liquidity map
+
+---
+
+## 🧱 Website Structure
+
+* Home
+* About
+* Academy
+* Courses
+* Tools
+* Store
+* Blog
+* Community
+* Signals
+* Dashboard
+* Support
+
+---
+
+## ⏳ Roadmap (6 Months)
+
+Month 1 → Base Website
+Month 2 → Academy
+Month 3 → Tools
+Month 4 → AI
+Month 5 → Signals
+Month 6 → Scaling
+
+---
+
+## 💬 Founder’s Message
+
+> “JWBCo was born from one belief:
+> **Creativity should never be limited by geography.**”
+> — *Alireza Heyrani*
+
+---
+
+## 🎨 Brand Identity
+
+Primary Color: **#F0B90B**
+Background: **#0D0D0D**
+Mood: Futuristic, Intelligent
+
+---
+
+<div align="center" style="margin-top:40px;color:#999;">
+
+✨ The future belongs to those who build without borders.
+© 2025 JWBCo
+
+</div>
+
+---
+
+# ✅ اگر خواستی:
+
+می‌توانم همین README را تبدیل کنم به:
+
+* نسخه **GitHub Pages**
+* نسخه **HTML آماده**
+* نسخه **PDF**
+* نسخه کوتاه مخصوص لندینگ
+* نسخه اختصاصی **Metaplus**
+
+بگو کدام را می‌خواهی؟
